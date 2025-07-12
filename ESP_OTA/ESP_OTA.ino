@@ -3,9 +3,7 @@
  *
  * @authors   : Satish Kanawade (Embedded Software Developer)
  *
- * @copyright : Embedlogiclancer
- *
- * @date      : 10 MAY 2024
+ * @date      : 10 JAN  2024
  *
  * @version   : V1.0
  *
