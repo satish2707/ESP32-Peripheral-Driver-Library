@@ -1,0 +1,5 @@
+ESP32 RGB LED blink reference note.
+
+@copyright : Satish Kanawade. All rights reserved.
+
+This example turns RGB LED channels on and off using active-low GPIO control.

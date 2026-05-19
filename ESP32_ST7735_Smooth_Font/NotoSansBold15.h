@@ -1,3 +1,17 @@
+/**********************************************************************************************************************
+ * @file        NotoSansBold15.h
+ * @brief       Noto Sans Bold 15 anti-aliased smooth font data for TFT_eSPI.
+ * @details     Generated font byte array stored in flash memory with PROGMEM for ESP32 ST7735 display projects.
+ * @author      Satish Kanawade
+ * @date        20-May-2026
+ * @version     1.0.0
+ * @copyright : Satish Kanawade. All rights reserved.
+ *********************************************************************************************************************/
+
+#pragma once
+
+#include <Arduino.h>
+
 const uint8_t  NotoSansBold15[] PROGMEM = {
 0x00, 0x00, 0x00, 0xE9, 0x00, 0x00, 0x00, 0x0B, 0x00, 0x00, 0x00, 0x14, 0x00, 0x00, 0x00, 0x00, 
 0x00, 0x00, 0x00, 0x0E, 0x00, 0x00, 0x00, 0x04, 0x00, 0x00, 0x00, 0x21, 0x00, 0x00, 0x00, 0x0D, 
