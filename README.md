@@ -1,6 +1,6 @@
-# ESP32 Peripheral Driver Library
+# ESP32 Drivers Development
 
-Professional ESP32 driver examples and reusable reference projects for common embedded features such as CAN bus, SD card firmware update, CRC32 validation, HTTP client communication, MQTT, NTP date/time, RGB LED control, and TFT smooth fonts.
+Professional ESP32 driver development examples and reusable reference projects for common embedded features such as CAN bus, SD card firmware update, CRC32 validation, HTTP client communication, MQTT, NTP date/time, RGB LED control, and TFT smooth fonts.
 
 ## Author
 
